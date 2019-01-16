@@ -11,8 +11,10 @@
 # Usage:
 ---
 ### Example Usage
-  from AlphaVantage.client import Client
+
+    from AlphaVantage.client import Client
   
-  client = client()
-  client.get_quote("MSFT")
+    client = client()
+  
+    client.get_quote("MSFT")
 
