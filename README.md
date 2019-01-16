@@ -11,9 +11,9 @@
 ---
 ## Example Usage
 ```python
-from AlphaVantage.client import Client
+import AlphaVantage.client as av
 
-av = Client()
-av.get_quote("MSFT")
+client = av.Client()
+client.get_quote("MSFT")
 ```
 
