@@ -14,6 +14,6 @@
 from AlphaVantage.client import Client
 
 client = client()
-client.get_historical_quote("MSFT", "5min")
+client.get_quote("MSFT")
 ```
 
