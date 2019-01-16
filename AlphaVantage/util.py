@@ -1,7 +1,7 @@
 from multiprocessing.pool import ThreadPool
 
 API_HOST = 'www.alphavantage.co'
-API_KEY = "demo" #"ZFRH8JNG15OM3GZT"
+API_KEY = "demo"
 
 INTERVALS = [
     '1min',
