@@ -6,7 +6,7 @@
 ![Percentage of issues still open](http://isitmaintained.com/badge/open/RomelTorres/alpha_vantage.svg)
 > A fast, lightweight Python interface to the AlphaVantage API
 
-[Alpha Vantage](www.alphavantage.co) offers free realtime financial data and historical market data. This module implements a python interface to the free API provided by Alpha Vantage. This project requires a free API key, which can be found at [website](www.alphavantage.co). 
+[Alpha Vantage](www.alphavantage.co) offers free realtime financial data and historical market data. This module implements a python interface to the free API provided by Alpha Vantage. This project requires a free API key, which can be found at this [website](www.alphavantage.co). 
 
 ---
 ## Example Usage
