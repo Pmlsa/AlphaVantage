@@ -10,12 +10,12 @@
 
 # Usage:
 ---
-### Example Usage
-    ```python
-    from AlphaVantage.client import Client
-  
-    client = client()
-  
-    client.get_quote("MSFT")
-    '''
+## Example Usage
+```python
+from AlphaVantage.client import Client
+
+client = client()
+
+client.get_quote("MSFT")
+'''
 
