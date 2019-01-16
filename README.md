@@ -13,7 +13,7 @@
 ```python
 from AlphaVantage.client import Client
 
-client = client()
-client.get_quote("MSFT")
+av = Client()
+av.get_quote("MSFT")
 ```
 
