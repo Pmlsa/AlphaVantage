@@ -15,7 +15,6 @@
 from AlphaVantage.client import Client
 
 client = client()
-
 client.get_quote("MSFT")
 ```
 
