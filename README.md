@@ -4,3 +4,5 @@
 [Alpha Vantage](www.alphavantage.co) offers free realtime financial data and historical market data. This module implements a python interface to the free API provided by Alpha Vantage. This project requires a free API key, which can be made at their [website](www.alphavantage.co). 
 
 # Usage:
+---
+### Example Usage
