@@ -13,7 +13,7 @@ from util import (
     ThreadedRequest
 )
 
-class Client(object):
+class Client:
     '''
     A fast, lightweight Python interface to the AlphaVantage API
 
