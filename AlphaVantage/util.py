@@ -17,9 +17,9 @@ OUTPUT_SIZE = [
 ]
 
 def ThreadedRequest(symbols, function):
-        pool = ThreadPool(len(symbols))
-        results = pool.map(function, symbols)
-        pool.close()
-        pool.join()
+    pool = ThreadPool(len(symbols))
+    results = pool.map(function, symbols)
+    pool.close()
+    pool.join()
 
-        return results
+    return results
